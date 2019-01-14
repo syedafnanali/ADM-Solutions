@@ -85,7 +85,7 @@ padding-bottom: 50px;
 
 /* Parallax2 */
 #parallax2{
-background: url(/img/blue-arrow-bg.jpg);
+background: url(./img/blue-arrow-bg.jpg);
 background-size:  cover;
 width: 100%;
 height: 40vh;

@@ -92,13 +92,10 @@ h6 {
   /* background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("https://images.all-free-download.com/images/graphiclarge/colorful_up_arrow_background_6816266.jpg"); */
   /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://media.istockphoto.com/vectors/large-group-of-people-in-the-shape-of-a-grossing-arrow-way-to-success-vector-id1053490214") left; */
   background: url(/img/adm-bg.png);
-  /* background: url(https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/04/21094121/Free-Abstract-Blue-Vector-Background-PNG-1024x571.png); */
   background-position:center center;
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: 50% !important;
-  font-size: 35px;
-
 }
 
 #findBtn{
@@ -204,7 +201,7 @@ h6 {
   height: 50px;
   text-align: center;
   color: rgb(255, 255, 255);
-  background: rgb(18,61,96);
+  background: rgba(18,61,96);
   line-height: 50px;
   z-index: 999;
 }
@@ -214,7 +211,8 @@ h6 {
 }
 
 .menu-toggle:hover {
-  background: #343a40;
+  color: #fff;
+  background: rgb(26,171,215);
 }
 
 #services{

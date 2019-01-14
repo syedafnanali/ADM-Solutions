@@ -138,7 +138,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: rgb(129, 129, 128);
+  background: rgb(18,61,96);
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -203,7 +203,7 @@ h6 {
   height: 50px;
   text-align: center;
   color: rgb(255, 255, 255);
-  background: rgba(0, 0, 0, 0.5);
+  background: rgb(18,61,96);
   line-height: 50px;
   z-index: 999;
 }
